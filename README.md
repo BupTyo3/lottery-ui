@@ -4,8 +4,9 @@
 - clone https://github.com/BupTyo3/lottery-contract
 - npm i
 - npm install -g truffle 
-- устанавливаем Ganache и запускаем 
+- устанавливаем Ganache (https://www.trufflesuite.com/ganache) и запускаем 
 - затем в консоле truffle migrate (деплой контрактов в Ganache)
+- в браузере должен быть установлен и настроен кошёк Metamask подключённый к Ganache (https://www.youtube.com/watch?v=nUEBAS5r4Og)
 2) Фронт:
 - clone https://github.com/BupTyo3/lottery-ui/
 - yarn (устанавливаем все зависимости)
